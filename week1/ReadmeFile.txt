@@ -1,1 +1,0 @@
-Files won't work on beecrowd.com until the class name is changed to Main
